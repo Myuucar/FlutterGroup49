@@ -8,7 +8,7 @@ FlutterGroup49
 
 # Ürün İle İlgili Bilgiler
 
-## Takım Elemanları
+## Takım Üyeleri
 
 - İbrahim Serdar: Product Owner
 - Murat Yiğit Uçar: Scrum Master
