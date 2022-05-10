@@ -44,6 +44,9 @@ FlutterGroup49
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve story seçimleri**: ![image](https://user-images.githubusercontent.com/98598268/167646450-52ba28c0-af88-471f-abf5-973dae59658f.png)
+
  
 
 - **Daily Scrum**: Daily Scrum toplantılarının her grup üyesiyle rahat iletişime geçebilmek için Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrumlar ss olarak yüklenmektedir
