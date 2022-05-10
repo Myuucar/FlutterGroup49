@@ -43,13 +43,18 @@ FlutterGroup49
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi. Ürün araştırması yapıp projede karar kılma 100 puan, temel ürünün yapısına karar verilip ürünün kodlanmması 100 puan ve ortaya çıkan ürünün kontrol edilip varsa eklenebilecek ekstra özellik eklenmesi ve geliştirilmesi 100 puan olarak puanlandırılmıştır.
 
-- **Backlog düzeni ve story seçimleri**: ![image](https://user-images.githubusercontent.com/98598268/167646450-52ba28c0-af88-471f-abf5-973dae59658f.png)
+- **Backlog düzeni ve story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
 
- 
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
 
 - **Daily Scrum**: Daily Scrum toplantılarının her grup üyesiyle rahat iletişime geçebilmek için Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrumlar ss olarak yüklenmektedir
+
+- **Sprint board update**: Sprint board screenshotları:
+- ![Sprint Board](https://user-images.githubusercontent.com/98598268/167647805-793eba00-2850-4f09-8eb6-cfd3a0643548.png)
+
 
 - **Ürün Durumu**: İlk sprint hangi ürünün yapılacağına ve grup üyelerinin rol dağılımına karar vermeye ayrılmış ürüne başlanmamıştır.
 
