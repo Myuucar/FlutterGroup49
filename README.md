@@ -91,3 +91,7 @@ Alınan kararlar: Yapılacak ürünün basit fonksiyonel bir hesap makinesi olma
   - Uygulamanın zamanında yapılabilmesi için takımın her bir üyesinin daha fazla zaman ayırması konusunda anlaşılmıştır.
 
 
+-**Diğer Notlar**:
+- N/A
+
+
