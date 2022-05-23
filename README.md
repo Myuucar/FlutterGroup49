@@ -68,3 +68,26 @@ Alınan kararlar: Yapılacak ürünün basit fonksiyonel bir hesap makinesi olma
 -**Diğer Notlar**:
 - N/A
 
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının her grup üyesiyle rahat iletişime geçebilmek için Whatsapp üzerinden yapılması devam etmekte olup ek olaraktan discord üzerinden toplanıp yüz yüze aktif toplantılarda yapılmaktadır.!
+
+
+- **Sprint board update**: Sprint board screenshotları:
+-![miroboard sprint2](https://user-images.githubusercontent.com/98598268/169860951-a425babe-6d42-4fee-9643-b87a17b106c1.png) 
+
+
+ **Ürün Durumu**: Ürün temelde hazırlanmış olup kodları eklenmiştir, ekran görüntüleri şuan alınan bir sürüm hatasından kaynaklı 24.05.2022'de yüklenecek olup, yüklendiğinde bu durum güncellenecektir.
+ 
+ 
+ - **Sprint Review**: 
+-Ürünün kodlaması yapılmış ufak bir bugfixing yapılacaktır, 3.sprintte yapılması gerekenler planlanmış ve uygulamayı bitirmek için gereken vizyon edinilmiştir.
+
+
+- **Sprint Retrospective:**
+  - Uygulamanın zamanında yapılabilmesi için takımın her bir üyesinin daha fazla zaman ayırması konusunda anlaşılmıştır.
+
+
