@@ -80,7 +80,9 @@ Alınan kararlar: Yapılacak ürünün basit fonksiyonel bir hesap makinesi olma
 -![miroboard sprint2](https://user-images.githubusercontent.com/98598268/169860951-a425babe-6d42-4fee-9643-b87a17b106c1.png) 
 
 
- **Ürün Durumu**: Ürün temelde hazırlanmış olup kodları eklenmiştir, ekran görüntüleri şuan alınan bir sürüm hatasından kaynaklı 24.05.2022'de yüklenecek olup, yüklendiğinde bu durum güncellenecektir.
+-**Backlog Link**: https://miro.com/app/board/uXjVO2QcTrs=/
+
+ **Ürün Durumu**: Ürün temelde hazırlanmış olup kodları eklenmiştir, ekran görüntüleri şuan alınan bir sürüm hatasından kaynaklı en yakın zamanda yüklenecek olup, yüklendiğinde bu durum güncellenecektir.
  
  
  - **Sprint Review**: 
