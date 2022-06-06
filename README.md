@@ -97,3 +97,37 @@ Alınan kararlar: Yapılacak ürünün basit fonksiyonel bir hesap makinesi olma
 - N/A
 
 
+
+
+# Sprint 3
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının her grup üyesiyle rahat iletişime geçebilmek için Whatsapp üzerinden yapılması devam etmekte olup ek olaraktan discord üzerinden toplanıp yüz yüze aktif toplantılarda yapılmaktadır.!
+
+
+- **Sprint board update**: Sprint board screenshotları:
+-![image](https://user-images.githubusercontent.com/98598268/172213784-8e251cce-cdd6-4b0f-b72f-064f6e52edbc.png)
+
+
+
+-**Backlog Link**: https://miro.com/app/board/uXjVO2QcTrs=/
+
+ **Ürün Durumu**: Önceki sprintten kalan hatalar düzeltilmiş ürün son haline getirilip tamamlanmıştır.
+ 
+ **Ürün Ekran Görüntüleri**: 
+ 
+ 
+ - **Sprint Review**: 
+-Ürün temel hedefler bağlamında tamamlanmıştır.
+
+
+- **Sprint Retrospective:**
+  - Sprint ve uygulama tamamlanmıştır
+
+
+-**Diğer Notlar**:
+- Uygulama geliştirilmeye devam edilir ise son işlemler arasından işlemleri favorileme yapılıp o işlemlerin ayrı bir ekranda kalıcı olarak gözükmesi sağlanabilir
+
+
