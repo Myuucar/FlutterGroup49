@@ -10,9 +10,9 @@ FlutterGroup49
 
 ## Takım Üyeleri
 
-- İbrahim Serdar: Product Owner
+- Fatma Teke: Product Owner
 - Murat Yiğit Uçar: Scrum Master
-- Fatma Teke: Team Member/Developer
+- İbrahim Serdar: Team Member/Developer
 - Onur Kurt: Team Memmber/Developer
 
 ## Ürün İsmi
